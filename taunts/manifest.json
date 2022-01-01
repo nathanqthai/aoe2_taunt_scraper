@@ -1,0 +1,632 @@
+[
+  {
+    "num": 1,
+    "text": "Yes.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/e/e1/Yes.ogg/revision/latest?cb=20170605130608",
+    "file": "001.ogg"
+  },
+  {
+    "num": 2,
+    "text": "No.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/7/7a/No.ogg/revision/latest?cb=20170605130509",
+    "file": "002.ogg"
+  },
+  {
+    "num": 3,
+    "text": "Food please.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/b/b3/Food%2C_please.ogg/revision/latest?cb=20170605130344",
+    "file": "003.ogg"
+  },
+  {
+    "num": 4,
+    "text": "Wood please.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/d/dc/Wood%2C_please.ogg/revision/latest?cb=20170605130608",
+    "file": "004.ogg"
+  },
+  {
+    "num": 5,
+    "text": "Gold please.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/9/95/Gold%2C_please.ogg/revision/latest?cb=20170605130345",
+    "file": "005.ogg"
+  },
+  {
+    "num": 6,
+    "text": "Stone please.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/6/6a/Stone%2C_please.ogg/revision/latest?cb=20170605130606",
+    "file": "006.ogg"
+  },
+  {
+    "num": 7,
+    "text": "Ahh!",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/2/21/Ahh.ogg/revision/latest?cb=20170605130304",
+    "file": "007.ogg"
+  },
+  {
+    "num": 8,
+    "text": "All hail, king of the losers!",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/d/d6/All_hail.ogg/revision/latest?cb=20170605130305",
+    "file": "008.ogg"
+  },
+  {
+    "num": 9,
+    "text": "Ooh!",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/4/4c/Oooh.ogg/revision/latest?cb=20170605130509",
+    "file": "009.ogg"
+  },
+  {
+    "num": 10,
+    "text": "I'll beat you back to Age of Empires.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/1/13/Back_to_age_one.ogg/revision/latest?cb=20170605130306",
+    "file": "010.ogg"
+  },
+  {
+    "num": 11,
+    "text": "(Herb laugh)",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/2/22/Herb_laugh.ogg/revision/latest?cb=20170605130345",
+    "file": "011.ogg"
+  },
+  {
+    "num": 12,
+    "text": "Ah! being rushed.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/1/19/Being_rushed.ogg/revision/latest?cb=20170605130306",
+    "file": "012.ogg"
+  },
+  {
+    "num": 13,
+    "text": "Sure, blame it on your ISP.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/7/7b/Blame_your_isp.ogg/revision/latest?cb=20170605130306",
+    "file": "013.ogg"
+  },
+  {
+    "num": 14,
+    "text": "Start the game already!",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/0/04/Start_the_game.ogg/revision/latest?cb=20170605130600",
+    "file": "014.ogg"
+  },
+  {
+    "num": 15,
+    "text": "Don't point that thing at me!",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/3/33/Don%27t_point_that_thing.ogg/revision/latest?cb=20170605130343",
+    "file": "015.ogg"
+  },
+  {
+    "num": 16,
+    "text": "Enemy sighted!",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/e/e7/Enemy_sighted.ogg/revision/latest?cb=20170605130343",
+    "file": "016.ogg"
+  },
+  {
+    "num": 17,
+    "text": "It is good to be the king.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/3/33/It_is_good.ogg/revision/latest?cb=20170605130346",
+    "file": "017.ogg"
+  },
+  {
+    "num": 18,
+    "text": "Monk! I need a monk!",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/d/d7/I_need_a_monk.ogg/revision/latest?cb=20170605130345",
+    "file": "018.ogg"
+  },
+  {
+    "num": 19,
+    "text": "Long time, no siege.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/9/94/Long_time_no_siege.ogg/revision/latest?cb=20170605130506",
+    "file": "019.ogg"
+  },
+  {
+    "num": 20,
+    "text": "My granny could scrap better than that.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/3/37/My_granny.ogg/revision/latest?cb=20170605130507",
+    "file": "020.ogg"
+  },
+  {
+    "num": 21,
+    "text": "Nice town, I'll take it.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/d/d0/Nice_town_i%27ll_take_it.ogg/revision/latest?cb=20170605130508",
+    "file": "021.ogg"
+  },
+  {
+    "num": 22,
+    "text": "Quit touching me!",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/c/c2/Quit_touchin.ogg/revision/latest?cb=20170605130509",
+    "file": "022.ogg"
+  },
+  {
+    "num": 23,
+    "text": "Raiding party!",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/9/92/Raiding_party.ogg/revision/latest?cb=20170605130510",
+    "file": "023.ogg"
+  },
+  {
+    "num": 24,
+    "text": "Dadgum.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/2/23/Dadgum.ogg/revision/latest?cb=20170605130343",
+    "file": "024.ogg"
+  },
+  {
+    "num": 25,
+    "text": "Eh, smite me.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/f/f1/Smite_me.ogg/revision/latest?cb=20170605130511",
+    "file": "025.ogg"
+  },
+  {
+    "num": 26,
+    "text": "The wonder, the wonder, the... no!",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/9/99/The_wonder.ogg/revision/latest?cb=20170605130606",
+    "file": "026.ogg"
+  },
+  {
+    "num": 27,
+    "text": "You played two hours to die like this?",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/5/53/You_play_two_hours.ogg/revision/latest?cb=20170605130608",
+    "file": "027.ogg"
+  },
+  {
+    "num": 28,
+    "text": "Yeah, well, you should see the other guy.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/9/9a/You_should_see_the_other_guy.ogg/revision/latest?cb=20170605130716",
+    "file": "028.ogg"
+  },
+  {
+    "num": 29,
+    "text": "Roggan.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/b/b2/Roggan.ogg/revision/latest?cb=20170605130510",
+    "file": "029.ogg"
+  },
+  {
+    "num": 30,
+    "text": "Wololo.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/a/a1/Wololo.ogg/revision/latest?cb=20170605130607",
+    "file": "030.ogg"
+  },
+  {
+    "num": 31,
+    "text": "Attack an enemy now.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/b/b8/Attack_an_enemy_now.ogg/revision/latest?cb=20170605130305",
+    "file": "031.ogg"
+  },
+  {
+    "num": 32,
+    "text": "Cease creating extra villagers.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/b/b9/Cease_creating_extra_villagers.ogg/revision/latest?cb=20170605130308",
+    "file": "032.ogg"
+  },
+  {
+    "num": 33,
+    "text": "Create extra villagers.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/6/6e/Create_extra_villagers.ogg/revision/latest?cb=20170605130715",
+    "file": "033.ogg"
+  },
+  {
+    "num": 34,
+    "text": "Build a navy.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/c/cd/Build_a_navy.ogg/revision/latest?cb=20170605130307",
+    "file": "034.ogg"
+  },
+  {
+    "num": 35,
+    "text": "Stop building a navy.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/6/65/Stop_building_a_navy.ogg/revision/latest?cb=20170605130606",
+    "file": "035.ogg"
+  },
+  {
+    "num": 36,
+    "text": "Wait for my signal to attack.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/5/51/Wait_for_my_signal_to_attack.ogg/revision/latest?cb=20170605130607",
+    "file": "036.ogg"
+  },
+  {
+    "num": 37,
+    "text": "Build a wonder.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/2/27/Build_a_wonder.ogg/revision/latest?cb=20170605130307",
+    "file": "037.ogg"
+  },
+  {
+    "num": 38,
+    "text": "Give me your extra resources.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/3/30/Give_me_your_extra_resources.ogg/revision/latest?cb=20170605130745",
+    "file": "038.ogg"
+  },
+  {
+    "num": 39,
+    "text": "(Ally sound)",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/9/9e/Ally.ogg/revision/latest?cb=20170605130305",
+    "file": "039.ogg"
+  },
+  {
+    "num": 40,
+    "text": "(Neutral sound)",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/e/e6/Neutral.ogg/revision/latest?cb=20201222024841",
+    "file": "040.ogg"
+  },
+  {
+    "num": 41,
+    "text": "(Enemy sound)",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/5/5e/Enemy.ogg/revision/latest?cb=20201222024614",
+    "file": "041.ogg"
+  },
+  {
+    "num": 42,
+    "text": "What age are you in?",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/4/4a/What_age_are_you_in.ogg/revision/latest?cb=20170605130607",
+    "file": "042.ogg"
+  },
+  {
+    "num": 43,
+    "text": "What is your strategy?",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/0/0b/T_43.ogg/revision/latest?cb=20191224100458",
+    "file": "043.ogg"
+  },
+  {
+    "num": 44,
+    "text": "How many resources do you have?",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/c/cd/T_44.ogg/revision/latest?cb=20191224101218",
+    "file": "044.ogg"
+  },
+  {
+    "num": 45,
+    "text": "Retreat now!",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/2/2e/T_45.ogg/revision/latest?cb=20191224101219",
+    "file": "045.ogg"
+  },
+  {
+    "num": 46,
+    "text": "Flare the location of your army.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/8/89/T_46.ogg/revision/latest?cb=20191224101219",
+    "file": "046.ogg"
+  },
+  {
+    "num": 47,
+    "text": "Attack in direction of the flared location.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/7/7f/T_47.ogg/revision/latest?cb=20191224101219",
+    "file": "047.ogg"
+  },
+  {
+    "num": 48,
+    "text": "I'm being attacked, please help!",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/f/fe/T_48.ogg/revision/latest?cb=20191224101220",
+    "file": "048.ogg"
+  },
+  {
+    "num": 49,
+    "text": "Build a forward base at the flared location.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/8/89/T_49.ogg/revision/latest?cb=20191224101220",
+    "file": "049.ogg"
+  },
+  {
+    "num": 50,
+    "text": "Build a fortification at the flared location.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/6/68/T_50.ogg/revision/latest?cb=20191224101221",
+    "file": "050.ogg"
+  },
+  {
+    "num": 51,
+    "text": "Keep your army close to mine and fight with me.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/6/6c/T_51.ogg/revision/latest?cb=20191224101221",
+    "file": "051.ogg"
+  },
+  {
+    "num": 52,
+    "text": "Build a market at the flared location.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/2/28/T_52.ogg/revision/latest?cb=20191224101222",
+    "file": "052.ogg"
+  },
+  {
+    "num": 53,
+    "text": "Rebuild your base at the flared location.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/5/52/T_53.ogg/revision/latest?cb=20191224101223",
+    "file": "053.ogg"
+  },
+  {
+    "num": 54,
+    "text": "Build a wall between the two flared locations.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/4/45/T_54.ogg/revision/latest?cb=20191224101611",
+    "file": "054.ogg"
+  },
+  {
+    "num": 55,
+    "text": "Build a wall around your town.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/5/50/T_55.ogg/revision/latest?cb=20191224101611",
+    "file": "055.ogg"
+  },
+  {
+    "num": 56,
+    "text": "Train units which counter the enemy's army.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/c/c2/T_56.ogg/revision/latest?cb=20191224101612",
+    "file": "056.ogg"
+  },
+  {
+    "num": 57,
+    "text": "Stop training counter units.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/6/68/T_57.ogg/revision/latest?cb=20191224101612",
+    "file": "057.ogg"
+  },
+  {
+    "num": 58,
+    "text": "Prepare to send me all your resources so I can vanquish our foes!",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/3/31/T_58.ogg/revision/latest?cb=20191224101613",
+    "file": "058.ogg"
+  },
+  {
+    "num": 59,
+    "text": "Stop sending me extra resources.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/2/2f/T_59.ogg/revision/latest?cb=20191224101613",
+    "file": "059.ogg"
+  },
+  {
+    "num": 60,
+    "text": "Prepare to train a large army, I will send you as many resources as I can\nspare.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/d/de/T_60.ogg/revision/latest?cb=20191224101613",
+    "file": "060.ogg"
+  },
+  {
+    "num": 61,
+    "text": "Attack player 1! (Blue)",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/3/34/T_61.ogg/revision/latest?cb=20191224101614",
+    "file": "061.ogg"
+  },
+  {
+    "num": 62,
+    "text": "Attack player 2! (Red)",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/0/0c/T_62.ogg/revision/latest?cb=20191224101614",
+    "file": "062.ogg"
+  },
+  {
+    "num": 63,
+    "text": "Attack player 3! (Green)",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/a/a0/T_63.ogg/revision/latest?cb=20191224101615",
+    "file": "063.ogg"
+  },
+  {
+    "num": 64,
+    "text": "Attack player 4! (Yellow)",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/b/b1/T_64.ogg/revision/latest?cb=20191224101726",
+    "file": "064.ogg"
+  },
+  {
+    "num": 65,
+    "text": "Attack player 5! (Cyan)",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/7/73/T_65.ogg/revision/latest?cb=20191224101727",
+    "file": "065.ogg"
+  },
+  {
+    "num": 66,
+    "text": "Attack player 6! (Purple)",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/9/92/T_66.ogg/revision/latest?cb=20191224101728",
+    "file": "066.ogg"
+  },
+  {
+    "num": 67,
+    "text": "Attack player 7! (Gray)",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/4/47/T_67.ogg/revision/latest?cb=20191224101728",
+    "file": "067.ogg"
+  },
+  {
+    "num": 68,
+    "text": "Attack player 8! (Orange)",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/c/ca/T_68.ogg/revision/latest?cb=20191224101729",
+    "file": "068.ogg"
+  },
+  {
+    "num": 69,
+    "text": "Delete the object on the flared location.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/d/da/T_69.ogg/revision/latest?cb=20191224101729",
+    "file": "069.ogg"
+  },
+  {
+    "num": 70,
+    "text": "Delete your excess villagers.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/c/c9/T_70.ogg/revision/latest?cb=20191224101730",
+    "file": "070.ogg"
+  },
+  {
+    "num": 71,
+    "text": "Delete excess warships.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/b/bd/T_71.ogg/revision/latest?cb=20191224101730",
+    "file": "071.ogg"
+  },
+  {
+    "num": 72,
+    "text": "Focus on training infantry units.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/4/4b/T_72.ogg/revision/latest?cb=20191224101731",
+    "file": "072.ogg"
+  },
+  {
+    "num": 73,
+    "text": "Focus on training cavalry units.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/8/80/T_73.ogg/revision/latest?cb=20191224101731",
+    "file": "073.ogg"
+  },
+  {
+    "num": 74,
+    "text": "Focus on training ranged units.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/8/80/T_74.ogg/revision/latest?cb=20191224101813",
+    "file": "074.ogg"
+  },
+  {
+    "num": 75,
+    "text": "Focus on training warships.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/a/a4/T_75.ogg/revision/latest?cb=20191224101814",
+    "file": "075.ogg"
+  },
+  {
+    "num": 76,
+    "text": "Attack the enemy with Militia.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/2/25/T_76.ogg/revision/latest?cb=20191224101814",
+    "file": "076.ogg"
+  },
+  {
+    "num": 77,
+    "text": "Attack the enemy with Archers.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/c/c8/T_77.ogg/revision/latest?cb=20191224101814",
+    "file": "077.ogg"
+  },
+  {
+    "num": 78,
+    "text": "Attack the enemy with Skirmishers.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/0/00/T_78.ogg/revision/latest?cb=20191224101815",
+    "file": "078.ogg"
+  },
+  {
+    "num": 79,
+    "text": "Attack the enemy with a mix of Archers and Skirmishers.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/d/d2/T_79.ogg/revision/latest?cb=20191224101816",
+    "file": "079.ogg"
+  },
+  {
+    "num": 80,
+    "text": "Attack the enemy with Scout Cavalry.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/8/80/T_80.ogg/revision/latest?cb=20191224101816",
+    "file": "080.ogg"
+  },
+  {
+    "num": 81,
+    "text": "Attack the enemy with Men-at-Arms.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/3/3c/T_81.ogg/revision/latest?cb=20191224101817",
+    "file": "081.ogg"
+  },
+  {
+    "num": 82,
+    "text": "Attack the enemy with Eagle Scouts.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/8/88/T_82.ogg/revision/latest?cb=20191224101817",
+    "file": "082.ogg"
+  },
+  {
+    "num": 83,
+    "text": "Attack the enemy with Towers.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/3/31/T_83.ogg/revision/latest?cb=20191224101817",
+    "file": "083.ogg"
+  },
+  {
+    "num": 84,
+    "text": "Attack the enemy with Crossbowmen.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/d/d0/T_84.ogg/revision/latest?cb=20191224101916",
+    "file": "084.ogg"
+  },
+  {
+    "num": 85,
+    "text": "Attack the enemy with Cavalry Archers.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/3/3c/T_85.ogg/revision/latest?cb=20191224101917",
+    "file": "085.ogg"
+  },
+  {
+    "num": 86,
+    "text": "Attack the enemy with Unique Units.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/6/60/T_86.ogg/revision/latest?cb=20191224101917",
+    "file": "086.ogg"
+  },
+  {
+    "num": 87,
+    "text": "Attack the enemy with Knights.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/2/21/T_87.ogg/revision/latest?cb=20191224101917",
+    "file": "087.ogg"
+  },
+  {
+    "num": 88,
+    "text": "Attack the enemy with Battle Elephants.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/2/25/T_88.ogg/revision/latest?cb=20191224101918",
+    "file": "088.ogg"
+  },
+  {
+    "num": 89,
+    "text": "Attack the enemy with Scorpions.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/a/ad/T_89.ogg/revision/latest?cb=20191224101918",
+    "file": "089.ogg"
+  },
+  {
+    "num": 90,
+    "text": "Attack the enemy with Monks.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/f/ff/T_90.ogg/revision/latest?cb=20191224101919",
+    "file": "090.ogg"
+  },
+  {
+    "num": 91,
+    "text": "Attack the enemy with Monks and Mangonels.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/e/e5/T_91.ogg/revision/latest?cb=20191224101919",
+    "file": "091.ogg"
+  },
+  {
+    "num": 92,
+    "text": "Attack the enemy with Eagle Warriors.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/0/04/T_92.ogg/revision/latest?cb=20191224101920",
+    "file": "092.ogg"
+  },
+  {
+    "num": 93,
+    "text": "Attack the enemy with Halberdiers and Rams.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/b/bf/T_93.ogg/revision/latest?cb=20191224101920",
+    "file": "093.ogg"
+  },
+  {
+    "num": 94,
+    "text": "Attack the enemy with Elite Eagle Warriors.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/0/08/T_94.ogg/revision/latest?cb=20191224102001",
+    "file": "094.ogg"
+  },
+  {
+    "num": 95,
+    "text": "Attack the enemy with Arbalests.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/3/3a/T_95.ogg/revision/latest?cb=20191224102002",
+    "file": "095.ogg"
+  },
+  {
+    "num": 96,
+    "text": "Attack the enemy with Champions.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/f/fb/T_96.ogg/revision/latest?cb=20191224102002",
+    "file": "096.ogg"
+  },
+  {
+    "num": 97,
+    "text": "Attack the enemy with Galleys.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/9/9b/T_97.ogg/revision/latest?cb=20191224102003",
+    "file": "097.ogg"
+  },
+  {
+    "num": 98,
+    "text": "Attack the enemy with Fire Galleys.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/9/94/T_98.ogg/revision/latest?cb=20191224102003",
+    "file": "098.ogg"
+  },
+  {
+    "num": 99,
+    "text": "Attack the enemy with Demolition Rafts.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/4/4a/T_99.ogg/revision/latest?cb=20191224102004",
+    "file": "099.ogg"
+  },
+  {
+    "num": 100,
+    "text": "Attack the enemy with War Galleys.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/c/ca/T_100.ogg/revision/latest?cb=20191224102004",
+    "file": "100.ogg"
+  },
+  {
+    "num": 101,
+    "text": "Attack the enemy with Fire Ships.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/5/5a/T_101.ogg/revision/latest?cb=20191224102005",
+    "file": "101.ogg"
+  },
+  {
+    "num": 102,
+    "text": "Attack the enemy with Unique Warships.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/1/1a/T_102.ogg/revision/latest?cb=20191224102005",
+    "file": "102.ogg"
+  },
+  {
+    "num": 103,
+    "text": "Use an Onager to cut down trees at the flared location.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/e/e4/T_103.ogg/revision/latest?cb=20191224102005",
+    "file": "103.ogg"
+  },
+  {
+    "num": 104,
+    "text": "Don't resign!",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/7/72/T_104.ogg/revision/latest?cb=20191224102022",
+    "file": "104.ogg"
+  },
+  {
+    "num": 105,
+    "text": "You can resign again.",
+    "url": "https://static.wikia.nocookie.net/ageofempires/images/9/90/T_105.ogg/revision/latest?cb=20191224102023",
+    "file": "105.ogg"
+  }
+]
